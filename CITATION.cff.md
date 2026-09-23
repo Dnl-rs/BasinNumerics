@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Code for: Random Fitness Landscapes are Highly Navigable"
+type: software
+authors:
+  - family-names: Oros
+    given-names: Daniel
+  - family-names: Krug
+    given-names: Joachim
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/Dnl-rs/BasinNumerics"
